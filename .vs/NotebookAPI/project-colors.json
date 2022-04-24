@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0021a68-7bc3-4012-971d-79a37022857c": {
+      "ProjectGuid": "a0021a68-7bc3-4012-971d-79a37022857c",
+      "DisplayName": "NotebookAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

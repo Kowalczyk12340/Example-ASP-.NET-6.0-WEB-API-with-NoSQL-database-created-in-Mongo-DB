@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "D5OBox8BEG7IHDOtpthWIFF6BA3dOVbJQPm7NIPExv8=",
+  "Source": "NotebookAPI",
+  "BasePath": "_content/NotebookAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NotebookAPI\\wwwroot",
+      "Source": "NotebookAPI",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\c#\\NotebookAPI\\NotebookAPI\\wwwroot\\",
+      "BasePath": "_content/NotebookAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
